@@ -41,4 +41,6 @@ The data for the `Palisades` can be downloaded directly [here](https://hub.arcgi
 County of Los Angeles. (2025). *Palisades and Eaton dissolved fire perimeters*
 [Dataset]. ArcGIS Hub. https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c 
 
+NASA. (2025, December 8). *Why is that forest red and that cloud blue? How to interpret a false-color satellite image*. https://science.nasa.gov/earth/earth-observatory/how-to-interpret-a-false-color-satellite-image/
+
 U.S. Geological Survey. (2025). Landsat Collection 2 Level-2 [Dataset]. Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 
