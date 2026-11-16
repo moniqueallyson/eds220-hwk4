@@ -36,6 +36,4 @@ The `landsat8` data was given by the professor in google drive, but can accessed
 The data for the `Palisades` can be downloaded directly [here](https://hub.arcgis.com/datasets/lacounty::palisades-and-eaton-dissolved-fire-perimeters-2025/explore?layer=1&location=34.133841%2C-118.349462%2C10) and `Eaton` data [here](https://hub.arcgis.com/datasets/lacounty::palisades-and-eaton-dissolved-fire-perimeters-2025/explore?layer=0&location=32.162108%2C-115.753942%2C7). Both were found using Google search with the first results titled, Palisades and Eaton Dissolved Fire Perimeters (2025), which is housed on [ArcGISHub](https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about).
 
 
-
-
 ## References
