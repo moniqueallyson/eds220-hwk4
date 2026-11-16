@@ -8,11 +8,13 @@
 
 This repository contains the materials for the [fourth homework assignment](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades-eaton-fires.html) for [EDS 220: Working with Environmental Datasets](https://bren.ucsb.edu/courses/eds-220), a course that is part of the Master of Environmental Data Science program completed at the Bren School of Environmental Science and Management.
 
-Satellite data from instruments (E.g. Landsat) are used to create false color imagery by assigning infrared bands to visible colors which highight important aspects like vegetation health, burn severity, and the extent of fire scars that assist researchers and land managers to asses recovery effotrs, identify high-risk areas, and plan restoration strategies.
+Satellite data from instruments (E.g. Landsat) are used to create false color imagery by assigning infrared bands to visible colors which highlight important aspects like vegetation health, burn severity, and the extent of fire scars that assist researchers and land managers to assess recovery efforts, identify high-risk areas, and plan restoration strategies.
 
-The homework assignment focuses on the Palisades and Eaton fires, foothill and coastal wildland-urban zones in Los Angeles County, that occured almost simultaneously around the start of January in 2025. From the two fires, thousands of homes were destroyed and displaced tens of thousands of residents as well as inflicing ecological and infrastructural damage.
 
-For this assignment, the final output should be a false color image of the Eaton and Palisades fire through remote sensing data highlighting the fire scar. The importance of the assignment is to explore how data visualization and coding support environemental monitoring.
+The homework assignment focuses on the Palisades and Eaton fires, foothill and coastal wildland-urban zones in Los Angeles County, that occurred almost simultaneously around the start of January in 2025. From the two fires, thousands of homes were destroyed and displaced tens of thousands of residents as well as inflicting ecological and infrastructural damage.
+
+
+For this assignment, the final output should be a false color image of the Eaton and Palisades fire through remote sensing data highlighting the fire scar. The importance of the assignment is to explore how data visualization and coding support environmental monitoring.
 
 ## Repository Structure
 
