@@ -22,6 +22,10 @@ For this assignment, the final output should be a false color image of the Eaton
 eds220-hwk4
 ├── data
 │   └── landsat8-2025-02-23-palisades-eaton.nc
+|── Eaton_Perimeter_20250121
+│    └── Eaton_Perimeter_20250121.shp
+|── Palisades_Perimieter_20250121
+│    └── Eaton_Perimieter_20250121.shp 
 ├── hwk4-task2-false-color-hernandez.ipynb
 ├── image
 ├── LICENSE
@@ -30,6 +34,8 @@ eds220-hwk4
 ```
 
 The `data` folder contains the data from `landsat8` as well as the fire perimeter which represent both `Palisades` and `Eaton`. The ipynb that contains the code is called `hwk4-task2-false-color-hernandez.ipynb`.
+
+*Note: Perimeter for Palisades is spelled incorrectly*
 
 ## Data
 
