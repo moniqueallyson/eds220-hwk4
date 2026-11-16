@@ -20,12 +20,6 @@ For this assignment, the final output should be a false color image of the Eaton
 
 ```
 eds220-hwk4
-├── data
-│   └── landsat8-2025-02-23-palisades-eaton.nc
-|── Eaton_Perimeter_20250121
-│    └── Eaton_Perimeter_20250121.shp
-|── Palisades_Perimieter_20250121
-│    └── Eaton_Perimieter_20250121.shp 
 ├── hwk4-task2-false-color-hernandez.ipynb
 ├── image
 ├── LICENSE
