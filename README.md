@@ -37,3 +37,7 @@ The data for the `Palisades` can be downloaded directly [here](https://hub.arcgi
 
 
 ## References
+
+Microsoft Planetary Computer. Planetary Computer (2025). (n.d.). https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 
+
+Palisades and Eaton Dissolved Fire Perimeters (2025). ArcGIS Hub. (n.d.). https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c 
