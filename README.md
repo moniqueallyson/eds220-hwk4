@@ -1,22 +1,18 @@
 # Fire Scars False Color Visualization 
 
-<!-- <p align="center">
-  <img src="image/image.png" alt="Map making" width="600">
-</p> -->
+<p align="center">
+  <img src="image/image.png" alt="remote sensing and fire" width="600">
+</p>
 
 ## About 
 
-This repository contains the materials for the [fourth homework assignment](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades-eaton-fires.html) for [EDS 223: Geospatial Analysis and Remote Sensing](https://bren.ucsb.edu/courses/eds-220), a course that is part of the Master of Environmental Data Science program completed at the Bren School of Environmental Science and Management.
+This repository contains the materials for the [fourth homework assignment](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades-eaton-fires.html) for [EDS 220: Working with Environmental Datasets](https://bren.ucsb.edu/courses/eds-220), a course that is part of the Master of Environmental Data Science program completed at the Bren School of Environmental Science and Management.
 
-The homework assignment focuses on the environmental injustice of a location in the U.S. For this assignment, 
+Satellite data from instruments (E.g. Landsat) are used to create false color imagery by assigning infrared bands to visible colors which highight important aspects like vegetation health, burn severity, and the extent of fire scars that assist researchers and land managers to asses recovery effotrs, identify high-risk areas, and plan restoration strategies.
 
+The homework assignment focuses on the Palisades and Eaton fires, foothill and coastal wildland-urban zones in Los Angeles County, that occured almost simultaneously around the start of January in 2025. From the two fires, thousands of homes were destroyed and displaced tens of thousands of residents as well as inflicing ecological and infrastructural damage.
 
-In early January 2025, the Eaton Fire and Palisades Fire erupted nearly simultaneously in the foothills and coastal wildland-urban interface zones of Los Angeles County, fueled by powerful Santa Ana winds. Together, they devastated thousands of homes, displaced tens of thousands of residents, and inflicted severe ecological and infrastructural damage.
-
-False color imagery, created using satellite data from instruments like Landsat, is a useful tool for monitoring wildfire impacts. By assigning infrared bands to visible colors, these images highlight vegetation health, burn severity, and the extent of fire scars. This approach helps researchers and land managers assess recovery efforts, identify high-risk areas, and plan restoration strategies.
-
-In this task, you will create a false color image of the Eaton and Palisades Fires using remote sensing data, highlighting the fire scar and exploring how coding and data visualization support environmental monitoring.
-
+For this assignment, the final output should be a false color image of the Eaton and Palisades fire through remote sensing data highlighting the fire scar. The importance of the assignment is to explore how data visualization and coding support environemental monitoring.
 
 ## Repository Structure
 
