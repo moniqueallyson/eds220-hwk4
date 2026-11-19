@@ -1,7 +1,7 @@
 # Fire Scars False Color Visualization 
 
 <p align="center">
-  <img src="image/image.avif" alt="remote sensing and fire" width="600">
+  <img src="image/image.jpeg" alt="remote sensing and fire" width="600">
 </p>
 
 ## About 
