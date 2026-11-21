@@ -16,6 +16,16 @@ The homework assignment focuses on the Palisades and Eaton fires, foothill, and 
 
 For this assignment, the final output should be a false color image of the Eaton and Palisades fire through remote sensing data highlighting the fire scar. The importance of the assignment is to explore how data visualization and coding support environmental monitoring.
 
+## Highlights
+
+- Restoration of CRS through exploratory retrieval using the correct variable, `spatial_ref.crs_wkt`.
+
+- Correct true color imagery by filling in `NaN` values with 0 for bands using RGB (visible light).
+
+- False color imagery using short-wave infrared, near-infrared, and red for a .
+
+- Creating a false color image and depicting the fire perimeters using boundaries to represent Palisades and Eaton fires.
+
 ## Repository Structure
 
 ```
@@ -27,9 +37,11 @@ eds220-hwk4
 
 ```
 
-The `data` folder contains the data from `landsat8` as well as the fire perimeter which represent both `Palisades` and `Eaton`. The ipynb that contains the code is called `hwk4-task2-false-color-hernandez.ipynb`.
+The `data` for both `landsat8` as well as the fire perimeter which represent both `Palisades` and `Eaton` are not housed here due to the file size. Though, details below can be read to acquire through an independent search.
 
-*Note: Perimeter for Palisades is spelled incorrectly*
+The ipynb that contains the code is called `hwk4-task2-false-color-hernandez.ipynb`.
+
+*Note: Perimeter for Palisades is spelled incorrectly in the data and used accordingly in the notebook*
 
 ## Data
 
