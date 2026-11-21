@@ -22,7 +22,7 @@ For this assignment, the final output should be a false color image of the Eaton
 
 - Correct true color imagery by filling in `NaN` values with 0 for bands using RGB (visible light).
 
-- False color imagery using short-wave infrared, near-infrared, and red for a .
+- False color imagery using short-wave infrared, near-infrared, and red to distignuish healthy vegation from burned areas.
 
 - Creating a false color image and depicting the fire perimeters using boundaries to represent Palisades and Eaton fires.
 
